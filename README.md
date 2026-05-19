@@ -12,6 +12,12 @@ This visualization aggregates closely related sequences into macro-clusters (A, 
 ![Haplotype Network Dashboard](visual.png)
 
 
+### Haplotype Frequency and Cluster Proportions
+This chart illustrates how the 30 analyzed sequences are distributed among the defined genetic macro-nodes. 
+
+* **Dominant Core:** **Cluster A** represents the largest genetic core of the population, accounting for the highest percentage of individuals.
+* **Structured Subpopulations:** **Cluster B**, **Cluster C**, and **Cluster D** form substantial independent lineages, showcasing significant divergence within the pool.
+* **The "Genetic Outliers" (Minority Taxa):** Haplotypes **H14**, **H28**, and **H10** represent highly distinct, single-individual peripheral branches. In evolutionary terms, these singletons signify relic or rare ancestral lines that haven't undergone expansion but have been preserved inside this stable population, highlighting its ancient roots.
 ---
 
 ##  Genetic Diversity Analysis & Metrics
