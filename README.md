@@ -72,6 +72,7 @@ The haplotype network is highly complex and deeply structured. It lacks any star
 **Block 4: Population History Conclusion (Facit)**
 Given the high haplotype and nucleotide diversity, paired with the complex, non-star-like network topology and well-distributed cluster frequencies on the pie chart, we can confidently reject scenarios of recent demographic expansion or severe bottlenecks. The data suggests an ancient, historically stable population with pronounced geographic or demographic sub-structures and deep relic singletons that allowed isolated lineages to diverge significantly over extensive evolutionary periods.
 </details>
+
 ---
 
 ##  Tools Used
