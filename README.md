@@ -88,5 +88,6 @@ Given the high haplotype and nucleotide diversity, paired with the complex, non-
 ##  Project Structure
 
 * `dataset_clean.fas`: The curated, aligned FASTA file containing the 30 mitochondrial D-loop sequences.
-* `haplotype_network_dashboard.png`: The final high-resolution visualization combining the network and demographic charts.
+* `sequence.fasta`: Raw FASTA file containing the 30 mitochondrial D-loop sequences
+* `visual.png`: The final high-resolution visualization combining the network and demographic charts.
 * `README.md`: Project documentation and evolutionary analysis report.
